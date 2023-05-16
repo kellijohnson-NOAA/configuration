@@ -21,7 +21,7 @@ Please describe the feature with as much or as little text as you want.
 # What issue does this PR address?
 <!--- MANDATORY -->
 <!---
-All PRs must close/address a documented issue. Please note issues indvidually.
+All PRs must close/address a documented issue. Please note issues indivdually.
 For example,
 * Closes #<xxx>
 * Closes #<yyy>
