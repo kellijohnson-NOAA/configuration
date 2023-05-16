@@ -1,7 +1,15 @@
 <!---
 Thanks for opening a pull request (PR)!
-Please read the instructions for each section before filling in the sections.
-For smaller changes, feel free to skip sections not flagged as "MANDATORY".
+Everything inside of the less than!--- and --greater than is an html comment to
+help you navigate submitting this PR. This commented text as well as other
+comments will **NOT** appear in the final PR. If you do not believe me, just
+toggle between Write and Preview to see what your PR will look like without the
+comments.
+
+General instructions are as follows:
+Please read the html comment under each heading and follow the instructions.
+For smaller changes, feel free to skip sections not flagged as "MANDATORY" but
+please do not delete any of the section headers just leave the section blank.
 -->
 
 # What is the feature?
