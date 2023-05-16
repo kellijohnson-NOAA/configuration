@@ -18,7 +18,7 @@ install.packages(
 
 # GitHub
 remotes::install_github(
-  c("r4ss/r4ss", "nwfsc-assess/nwfscSurvey", "pbs-assess/sdmTMB"),
+  c("r4ss/r4ss", "pfmc-assessments/nwfscSurvey", "pbs-assess/sdmTMB"),
   dependencies = TRUE
 )
 
