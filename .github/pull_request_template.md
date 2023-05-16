@@ -15,8 +15,9 @@ please do not delete any of the section headers just leave the section blank.
 # What is the feature?
 <!--- MANDATORY -->
 <!---
-Please describe the feature with as much or as little text as you want.
+Please describe the feature using bullets and as much or as little text as you want.
 -->
+* 
 
 # What issue does this PR address?
 <!--- MANDATORY -->
@@ -34,9 +35,9 @@ create one because your PR will not be approved if it does not address an issue.
 
 # What tests were implemented?
 <!---
-Please uncomment the method that you used and describe how it was implemented
-in the space below. If there are relevant files, please zip them and include
-them in this PR.
+Please uncomment the method(s) that you used and describe how it was
+implemented in the space below. If there are relevant files, please zip them
+and include them in this PR.
 -->
 <!---No tests were needed, I am a :unicorn:.-->
 <!---The code is self-tested using examples that are ...-->
